@@ -13,7 +13,7 @@ More information on the BME680 can be found in the [datasheet](https://ae-bst.re
 
 ## Requirements
   - [xCore Library](https://github.com/xinabox/xCore)
-  - [Arduino IDE 1.8.1](https://www.arduino.cc/en/main/software)
+  - [Arduino IDE](https://www.arduino.cc/en/main/software)
   - ☒CHIP Core
 
 ## Installation Guide
