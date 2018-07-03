@@ -334,9 +334,9 @@ void xSW02::readGas(uint16_t resVal)
   	var1 =  (1340.0 + 5.0 * range_switch_error) * const_array1[gasRange];
   	gas_res = var1 * const_array2[gasRange] / (resVal - 512.0 + var1);
 
-	Serial.println(gas_res);
-	Serial.println(gasRange);
-	Serial.println(range_switch_error);
+	//Serial.println(gas_res);
+	//Serial.println(gasRange);
+	//Serial.println(range_switch_error);
 }
 
 /********************************************************
