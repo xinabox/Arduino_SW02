@@ -58,8 +58,8 @@
 	BME680 - https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME280_DS001-11.pdf
 */
 
-#ifndef xSW02_h
-#define xSW02_h
+#ifndef Arduino_SW02_h
+#define Arduino_SW02_h
 
 // System Includes
 #include <inttypes.h>

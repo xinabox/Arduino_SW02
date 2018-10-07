@@ -16,7 +16,7 @@
 *************************************************************/
 
 #include <xCore.h>
-#include <xSW02.h>
+#include <Arduino_SW02.h>
 
 const int DELAY_TIME = 1000;
 

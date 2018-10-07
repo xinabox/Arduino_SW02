@@ -16,7 +16,7 @@
 *************************************************************/
 
 #include <xCore.h>
-#include <xSW02.h>
+#include <Arduino_SW02.h>
 
 xSW02 SW02;
 
