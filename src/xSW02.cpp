@@ -58,7 +58,7 @@
 	BME680 - https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME680_DS001-11.pdf
 */
 
-#include "arduino-SW02.h"
+#include "xSW02.h"
 #include <math.h>
 
 
