@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/xinabox/arduino-SW02.svg?branch=master)](https://travis-ci.org/xinabox/arduino-SW02)
+[![GitHub issues](https://img.shields.io/github/issues/xinabox/arduino-SW02.svg)](https://github.com/xinabox/arduino-SW02/issues)
+
 # ☒CHIP SW02
 <img src="extras/SW02 V1.0.0.JPG" width="35%" height="auto" align="right">
 VOC and Weather Sensor (BME680).
